@@ -1,4 +1,7 @@
 # Chipsoft Assignment EPDConsole
+
+__Belangrijk: Na het runnen van de consoleapplicatie zie dat je eerst op optie 8 drukt 'Reset DB'__
+
 ## Layered Architecture
 Het project is gestructureerd in verschillende lagen:
 Data Access Layer (DAL): gebruikt Entity Framework voor interactie met de database (EPDDbContext).
